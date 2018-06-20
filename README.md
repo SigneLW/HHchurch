@@ -33,8 +33,6 @@ What do we mean by **religious events or traditions**?  For this category you mi
 ## My solution 
 I decided to look into the amount of people with christian affiliations (protestants and catholics) in Hamburg, the development of these numbers over the past years and how this compares to the average in Germany. 
 
-In this repository you will find the underlying data that I used, which I received from these websites: 
-Data for Hamburg: http://www.kirchenaustritt.de/hamburg
-Data for entire Germany: http://www.kirchenaustritt.de/statistik
+In this repository you will find the underlying data that I used for Hamburg (source: http://www.kirchenaustritt.de/hamburg) and  for Germany (source: http://www.kirchenaustritt.de/statistik). 
 
 Further you will find the python script to transform these data and make a nice figure using matplotlib. The figure can also be found in the repository. 
