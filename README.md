@@ -1,6 +1,6 @@
 ### HHchurch
 
-This repo contains data and code for an assignment from a coursera data science course.
+This repo contains data and code for an assignment from the coursera course **Applied Data Science with Python**.
 
 ## The Assignment 
 
@@ -29,3 +29,12 @@ What do we mean by **religious events or traditions**?  For this category you mi
  * Several international agencies, such as the [United Nations](http://data.un.org/), the [World Bank](http://data.worldbank.org/), the [Global Open Data Index](http://index.okfn.org/place/) are other great places to look for data.
  * This assignment requires you to convert and clean datafiles. Check out the discussion forums for tips on how to do this from various sources, and share your successes with your fellow students!
 
+
+## My solution 
+I decided to look into the amount of people with christian affiliations (protestants and catholics) in Hamburg, the development of these numbers over the past years and how this compares to the average in Germany. 
+
+In this repository you will find the underlying data that I used, which I received from these websites: 
+Data for Hamburg: http://www.kirchenaustritt.de/hamburg
+Data for entire Germany: http://www.kirchenaustritt.de/statistik
+
+Further you will find the python script to transform these data and make a nice figure using matplotlib. The figure can also be found in the repository. 
